@@ -4,6 +4,4 @@ Haaa
 kaaa
 I like CPU
 Hi
-<<<<<<< HEAD
 Haaaaaaa
->>>>>>> 6f52a9c0ce11f2cd28d2199e24b91d230baea3ce
